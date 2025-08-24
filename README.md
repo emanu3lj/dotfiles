@@ -1,2 +1,1 @@
-# dotfiles
-My dotfiles
+# Automated install for arch+hyprland
